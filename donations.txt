@@ -1246,5 +1246,11 @@
         "img": "https://s.gravatar.com/avatar/04cfe829270e111973d81eaf2e4a4eac?s=80&d=wavatar",
         "web": "https://vaagooye.com",
         "amount": 1000
+    },{
+        "date": "1397/02/08 18:16",
+        "name": "سایت ساز وبزی",
+        "img": "",
+        "web": "https://webzi.ir",
+        "amount": 30000
     }
 ]
